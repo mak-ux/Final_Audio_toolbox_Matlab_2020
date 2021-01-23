@@ -23,3 +23,11 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# This Project Contain Audio System Basics operations using Matlab
+
+Toolbox can be used to perform audio operation just by giving audio as an input and corresponding output can be visualized as a graph and one can verify it by hearing the sound .Please use headphones to verify sounds it will help you to differentiate between actual and modified output.
+Matlab environment is needed To run this program.
+
+# Link to the project
+https://in.mathworks.com/matlabcentral/fileexchange/80521-audio-system-toolbox
