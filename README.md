@@ -29,6 +29,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The toolbox can be used to perform audio operation just by giving audio as input and corresponding output can be visualized as a graph and one can verify it by hearing the sound. Please use headphones to verify sounds it will help you to differentiate between actual and modified output.
 A MatLab environment is needed To run this program.
 
+Watch the video from the given link, you will be able to run this program once you are done with watching the video, make sure that you are having a Matlab environment installed on your pc.
+
 # Link to the project
 https://in.mathworks.com/matlabcentral/fileexchange/80521-audio-system-toolbox
 
